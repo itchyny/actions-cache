@@ -23,7 +23,7 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/cache": "https://gitpkg.now.sh/whywaita/actions-toolkit-s3/packages/cache?main",
+    "@actions/cache": "github:itchyny/actions-toolkit-s3#ac5f178f182ed9cdb849f0ca21618276408ca1fd",
     "@actions/core": "^1.10.0",
     "@actions/exec": "^1.1.1",
     "@actions/io": "^1.1.2",
